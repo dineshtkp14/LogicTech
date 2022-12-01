@@ -208,7 +208,6 @@ img {
 }
 #mu-menu .navbar-default .navbar-nav li > a {
   border-bottom: 2px solid transparent;
-  padding-bottom: 25px;
   padding-top: 25px;
   margin-bottom: -1px;
   -webkit-transition: all 0.5s;
@@ -423,7 +422,8 @@ img {
   width: 100%;
 }
 #mu-service .mu-service-area .mu-service-single {
-  background-color: #01bafd;
+  background-color: #24C89A
+;
   color: #fff;
   display: inline;
   float: left;
@@ -638,7 +638,8 @@ img {
   position: relative;
 }
 #mu-features .mu-features-area .mu-features-content .mu-single-feature h4:after {
-  background-color: #333;
+  background-color: #404040
+;
   content: '';
   left: 0;
   right: 0;
@@ -670,7 +671,8 @@ img {
  LATEST COURSES SECTION
 ====================*/
 #mu-latest-courses {
-  background-color: #333;
+  background-color: #404040
+;
   display: inline;
   float: left;
   padding: 100px 0;
@@ -942,7 +944,8 @@ img {
   outline: none;
 }
 #mu-testimonial .mu-testimonial-area .mu-testimonial-content .mu-testimonial-item .mu-testimonial-quote {
-  background-color: #333;
+  background-color: #404040
+;
   border-radius: 4px;
   display: inline;
   float: left;
@@ -1108,7 +1111,8 @@ img {
  COURSES PAGE
 ====================*/
 #mu-page-breadcrumb {
-  background-color: #333;
+  background-color: #404040
+;
   display: inline;
   float: left;
   padding: 30px 0;
@@ -1918,7 +1922,8 @@ img {
   width: 100%;
 }
 #mu-footer .mu-footer-top {
-  background-color: #333;
+  background-color: #404040
+;
   display: inline;
   float: left;
   padding: 50px 0;
@@ -2184,12 +2189,14 @@ img {
   }
 
   .navbar-toggle {
-    background-color: #01bafd;
+    background-color: #24C89A
+;
     border-radius: 0;
   }
 
   .navbar-default .navbar-toggle {
-    border-color: #01bafd;
+    border-color: #24C89A
+;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
@@ -2197,7 +2204,8 @@ img {
   }
 
   .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #01bafd;
+    background-color: #24C89A
+;
   }
 
   #mu-menu .navbar-default .navbar-nav li > a {
