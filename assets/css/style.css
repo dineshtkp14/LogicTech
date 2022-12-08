@@ -200,12 +200,23 @@ img {
   margin-left: 4px;
 }
 #mu-menu .navbar-default {
-  background-color: #fff;
+  background-color: #202D71
+;
   border-radius: 0;
   border-left: none;
   border-right: none;
   margin-bottom: 0px;
 }
+
+.maindiv{
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+
+
+
+
 #mu-menu .navbar-default .navbar-nav li > a {
   border-bottom: 2px solid transparent;
   padding-top: 25px;
@@ -422,7 +433,7 @@ img {
   width: 100%;
 }
 #mu-service .mu-service-area .mu-service-single {
-  background-color: #24C89A
+  background-color: #1d3d08;
 ;
   color: #fff;
   display: inline;
@@ -432,10 +443,10 @@ img {
   width: 33.33%;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(2) {
-  background-color: #2ecc71;
+  background-color: #202d71;
 }
 #mu-service .mu-service-area .mu-service-single:nth-child(3) {
-  background-color: #45a0de;
+  background-color: #dd6e0f;
 }
 #mu-service .mu-service-area .mu-service-single span {
   font-size: 30px;
@@ -699,7 +710,7 @@ img {
   outline: none;
 }
 #mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .slick-dots li {
-  background-color: #fff;
+  background-color: #000000;
   border-radius: 4px;
   height: 8px;
   width: 20px;
@@ -709,7 +720,7 @@ img {
 }
 
 .mu-latest-course-single {
-  background-color: #fff;
+  background-color: #000000;
   display: inline;
   float: left;
   width: 100%;
@@ -877,7 +888,7 @@ img {
   transition: all 0.5s;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single .mu-our-teacher-img .mu-our-teacher-social a:hover, #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single .mu-our-teacher-img .mu-our-teacher-social a:focus {
-  background-color: #FFF;
+  background-color: #000000;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single .mu-ourteacher-single-content {
   display: inline;
@@ -1005,7 +1016,7 @@ img {
   letter-spacing: 0.3px;
 }
 #mu-testimonial .mu-testimonial-area .mu-testimonial-content .slick-dots li {
-  background-color: #fff;
+  background-color: #000000;
   height: 8px;
   width: 20px;
 }
@@ -1168,7 +1179,7 @@ img {
   width: 100%;
 }
 #mu-course-content .mu-course-content-area .mu-sidebar .mu-single-sidebar {
-  background-color: #FFF;
+  background-color: #000000;
   display: inline;
   float: left;
   margin-bottom: 25px;
@@ -1251,13 +1262,13 @@ img {
   transition: all 0.5s;
 }
 #mu-course-content .mu-course-content-area .mu-course-details {
-  background-color: #FFF;
+  background-color: #000000;
 }
 #mu-course-content .mu-course-content-area .mu-course-details .mu-latest-course-single {
   border: none;
 }
 #mu-course-content .mu-course-content-area .mu-course-details .mu-latest-course-single .mu-latest-course-imgcaption {
-  background-color: #FFF;
+  background-color: #000000;
 }
 #mu-course-content .mu-course-content-area .mu-course-details .mu-latest-course-single .mu-latest-course-single-content h2 {
   line-height: 1.7;
@@ -1331,7 +1342,7 @@ img {
   border: 1px solid #ccc;
 }
 .mu-related-item .mu-related-item-area .mu-blog-single-item {
-  background-color: #FFF;
+  background-color: #000000;
 }
 .mu-related-item .mu-related-item-area .mu-blog-single-item .mu-blog-caption {
   padding: 0 15px;
@@ -1356,7 +1367,7 @@ img {
 }
 
 .mu-blog-single .mu-blog-single-item {
-  background-color: #FFF;
+  background-color: #000000;
   padding-bottom: 30px;
 }
 .mu-blog-single .mu-blog-single-item .mu-blog-caption {
@@ -1695,10 +1706,10 @@ img {
   transition: all 0.5s;
 }
 #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-top ul li:hover, #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-top ul li:focus {
-  background-color: #fff;
+  background-color: #000000;
 }
 #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-top ul .active {
-  background-color: #fff;
+  background-color: #000000;
 }
 #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body {
   display: inline;
@@ -2200,7 +2211,7 @@ img {
   }
 
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000000;
   }
 
   .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
