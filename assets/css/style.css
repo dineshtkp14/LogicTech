@@ -710,7 +710,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   outline: none;
 }
 #mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .slick-dots li {
-  background-color: #000000;
+  background-color: #36e458;
   border-radius: 4px;
   height: 8px;
   width: 20px;
@@ -1016,7 +1016,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   letter-spacing: 0.3px;
 }
 #mu-testimonial .mu-testimonial-area .mu-testimonial-content .slick-dots li {
-  background-color: #000000;
+  background-color: #36e458;
   height: 8px;
   width: 20px;
 }
