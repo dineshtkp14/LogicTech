@@ -2064,6 +2064,17 @@ mycss*/
 
 }
 
+@media (max-width: 767px) {
+#mu-page-breadcrumb .forcursesimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+}
+
+
 @media  (max-width: 767px){
 .navbar-default .navbar-toggle {
     border-color: #dd6e0f;
