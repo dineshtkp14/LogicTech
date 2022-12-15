@@ -457,11 +457,22 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 #mu-service .mu-service-area .mu-service-single p {
   font-weight: lighter;
 }
-.mu-service-single:hover{
-  background: white !important;
-  transform: rotateX(90);
+.mu-service-single{
+ transition: all 0.5s ease-in-out;
 }
-
+.mu-service-single:hover{
+ 
+  transform: rotateZ(360deg);
+}
+strong{
+  color: #DD6E0F;
+}
+footer .mu-footer-widget address p a{
+   color:white ;
+}
+footer .mu-footer-widget address p a:hover{
+   color: #DD6E0F;
+}
 /*==================
  ABOUT SECTION
 ====================*/
